@@ -1,0 +1,11 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "Curso Jornada Back-End JavaScript Samsung Ocean em Fevereiro/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WRCSOARES",
+  "license": "MIT"
+}
