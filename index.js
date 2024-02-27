@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 
 app.get('/', function (req, res) {
-  res.send('Hello World - API WRCSOARES')
+  res.send('Hello World - API de William Ricky Soares')
 })
 
 app.get('/oi', function (req, res) {
